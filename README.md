@@ -71,7 +71,11 @@ Superstore is a sample sales data for creating the visualization in tableau. It 
 
 ![image](https://user-images.githubusercontent.com/108053296/185895323-7f7d67cb-b125-4052-a340-cb1b57b3fe65.png)
 <br>
+<br>
+<br>
 ![image](https://user-images.githubusercontent.com/108053296/185895423-5e07239d-a8dc-4883-9069-37aad9125062.png)
+<br>
+<br>
 <br>
 ![image](https://user-images.githubusercontent.com/108053296/185895507-5625e9b9-62d2-4add-96e3-a428dd15ec8d.png)
 
