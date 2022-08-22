@@ -10,7 +10,7 @@ Superstore is a sample sales data for creating the visualization in tableau. It 
 | Files/Folder| Description |
 | ------------- | ------------- |
 | **Dataset Folder** | This folder provides sample superstore dataset used in the project  |
-| **Tableau Public Link** | | The file contains tableau public link of the dashboard
+| **Tableau Public Link** | | The file contains tableau public link of the dashboard |
 
 
 <br>
